@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Template 1",
+    "field_name_1": "email",
+    "field_name_2": "phone"
+  },
+  {
+    "name": "Template 2",
+    "field_name_1": "date",
+    "field_name_2": "email"
+  }
+]
